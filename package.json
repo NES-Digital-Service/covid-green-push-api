@@ -32,7 +32,7 @@
     "fluent-schema": "^0.10.0",
     "http-errors": "^1.8.0",
     "nan": "^2.14.2",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "pg": "^8.5.1",
     "pg-range": "^1.1.0",
     "phone": "^2.4.19"
