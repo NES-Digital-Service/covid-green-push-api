@@ -50,7 +50,7 @@
     "eslint-plugin-standard": "^4.1.0",
     "faker": "^4.1.0",
     "jest": "^24.0.0",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "pino-pretty": "^3.5.0",
     "prettier": "^1.19.1",
     "prettier-config-standard": "^1.0.1"
